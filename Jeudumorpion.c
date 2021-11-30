@@ -1,11 +1,12 @@
 #include <stdio.h>
 #include <conio.h>
 
+ // Voici le code du jeu le morpion 3 par 3, pour l'executer telecharger le main 
 char square[10] = { 'o', '1', '2', '3', '4', '5', '6', '7', '8', '9' };
-//Ensemble des caractères initialiser
+//Ensemble des caractÃ¨res initialiser
 
 int gagne();
-//Fonction gagne permet de savoir si la partie a été remporter par un joueur ou a fini en match nul
+//Fonction gagne permet de savoir si la partie a Ã©tÃ© remporter par un joueur ou a fini en match nul
 
 
 
@@ -84,7 +85,7 @@ int main()
 
 
 //1 si la partie est remporter par l'un des deux joueurs.
-//-1 est l'état du jeu en progression.
+//-1 est l'Ã©tat du jeu en progression.
 //O si il y match nul entre les deux joueurs.
 
 
