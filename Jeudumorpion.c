@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+// AUGER LOICK
+// CARPENTIER LUDIVINE 
+// L2 INFO
 
  // Voici le code du jeu le morpion 3 par 3, pour l'executer telecharger le main
 char square[10] = { 'o', '1', '2', '3', '4', '5', '6', '7', '8', '9' };
